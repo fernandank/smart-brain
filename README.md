@@ -3,3 +3,4 @@ This is the front-end part of the Final project for Zero to Mastery The Complete
 Using: CSS, HTML, npm packages, react.
 
 Check out the deployed app: https://the-face-recognition-app.onrender.com/
+Back end part: https://github.com/fernandank/smart-brain-api/
